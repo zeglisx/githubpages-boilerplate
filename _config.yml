@@ -1,12 +1,12 @@
 # Site settings
-title: Mozilla Campus Clubs
-email: participation@mozilla.com
+title: Lambdaspace
+email: info@lambdaspace.gr
 description: >
-    Get involved with the Campus initiatives at Mozilla
+    Join a VC of H
 baseurl: ""
-url: "https://campus.mozilla.community"
+url: "https://lambdaspace.gr"
 twitter_username: mozparticipate
-github_username:  mozilla
+github_username:  lambdaspace
 
 # Build settings
 markdown: kramdown
